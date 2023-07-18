@@ -1,12 +1,12 @@
+<h1 align="center">
+  <img alt="PlantManager" title="PlantManager" src=".github/logo.svg" />
+</h1>
 <p align="center">
-<img alt="PlantManager" title="PlantManager" src=".github/logo.svg" />
-<br>
 <img src="https://img.shields.io/badge/JavaScript-32B768?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/NodeJS-32B768?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-32B768?style=for-the-badge&logo=docker&logoColor=white">
 <br>
 </p>
-<hr>
 <p align="justify" >Projeto de desenvolvido durante a <a href="https://nextlevelweek.com">Next Level Week 5</a> da <a href="https://github.com/rocketseat">@rocketseat.</a> Um app para lembrar do horário de regar às plantas. Este repositório contém o código de um servido backend fake para prover informações sobre plantas para o frontend. O código do frontend está <a href="https://github.com/gsbenevides2/nlw-05-plantmanager">aqui</a>. E você pode acessar o servidor através de <a href="http://google.gui.dev.br:3001">google.gui.dev.br:3001</a>.</p>
 
 <h2>👨‍💻 Tecnologias</h2>
